@@ -14,7 +14,7 @@ size_categories:
 
 This is the HuggingFace dataset repository accompanying my project, which showcases the training and use of a primitive sparse autoencoder on GPT-2 Medium. Inside, I include an example of how my sparse autoencoder can be used to influence the model's output, as well as a sandbox that you can use to customize boosting a feature of your choice. The link to the Colab Notebook for the project can either be found in the home directory of this repository, or at [this link](https://colab.research.google.com/drive/1c9WO334hTxeOLMADksy1rbtoTlp_we72?usp=sharing).
 
-*Very Important Note: Some of the most important files are too large to be stored on GitHub. They are, instead, hosted on HuggingFace, which you can find [here](https://huggingface.co/datasets/danielliu1/SAE-GPT2Medium).*
+*Very Important Note: Some of the most important files are too large to be stored on GitHub. They are, instead, hosted on HuggingFace, which you can find [here](https://huggingface.co/datasets/danielliu1/SAE-GPT2Medium). This isn't an issue if your goal is to run the Notebook, since they reference the HuggingFace repository.*
 
 *Also Important Note: Make sure you create a copy of the Colab Notebook in your Drive - otherwise, you won't be able to save your changes.*
 
