@@ -5,7 +5,7 @@ language:
 tags:
 - code
 size_categories:
-- 1M<n<10M
+- 10K<n<100K
 ---
 
 # Putting Words in GPT-2's Mouth with Sparse Autoencoders!
